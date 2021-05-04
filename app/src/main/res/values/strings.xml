@@ -1,0 +1,30 @@
+<!--suppress AndroidDomInspection -->
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="name">Name</string>
+    <string name="follower_number">1</string>
+    <string name="Follower">Followers</string>
+    <string name="Following">Following</string>
+    <string name="following_number">5</string>
+    <string name="repository_number">1</string>
+    <string name="repository">Repository</string>
+    <string name="Follow">Follow</string>
+    <string name="message">Message</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="information">Information</string>
+    <string name="id">1</string>
+    <string name="search">Search</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_settings">Settings</string>
+    <string name="daily_reminder">Daily Reminder at 9.00 AM</string>
+    <string name="icon_return">Icon Return</string>
+    <string name="icon_follower">Icon Follower</string>
+    <string name="icon_following">Icon Following</string>
+    <string name="icon_repository">Icon Repository</string>
+    <string name="logo_github">Logo Github</string>
+    <string name="userid">userid</string>
+</resources>
