@@ -1,3 +1,4 @@
+## GithubUser
 Github User application, result from my Belajar Membuat Aplikasi Android Fundamental submission in [**dicoding**](https://www.dicoding.com/academies/51)
 
 ## Feature :
